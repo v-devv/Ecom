@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './papular.css'
+import './Papular.css'
 import Item from '../item/Item'
 import { API_URL } from '../../api_link'; 
 import popularProducts from '../assets/data'
